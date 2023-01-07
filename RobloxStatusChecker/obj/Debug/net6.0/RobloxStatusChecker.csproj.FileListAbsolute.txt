@@ -1,0 +1,15 @@
+C:\Users\moonn\source\repos\RobloxStatusChecker\RobloxStatusChecker\bin\Debug\net6.0\RobloxStatusChecker.exe
+C:\Users\moonn\source\repos\RobloxStatusChecker\RobloxStatusChecker\bin\Debug\net6.0\RobloxStatusChecker.deps.json
+C:\Users\moonn\source\repos\RobloxStatusChecker\RobloxStatusChecker\bin\Debug\net6.0\RobloxStatusChecker.runtimeconfig.json
+C:\Users\moonn\source\repos\RobloxStatusChecker\RobloxStatusChecker\bin\Debug\net6.0\RobloxStatusChecker.dll
+C:\Users\moonn\source\repos\RobloxStatusChecker\RobloxStatusChecker\bin\Debug\net6.0\RobloxStatusChecker.pdb
+C:\Users\moonn\source\repos\RobloxStatusChecker\RobloxStatusChecker\obj\Debug\net6.0\RobloxStatusChecker.csproj.AssemblyReference.cache
+C:\Users\moonn\source\repos\RobloxStatusChecker\RobloxStatusChecker\obj\Debug\net6.0\RobloxStatusChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moonn\source\repos\RobloxStatusChecker\RobloxStatusChecker\obj\Debug\net6.0\RobloxStatusChecker.AssemblyInfoInputs.cache
+C:\Users\moonn\source\repos\RobloxStatusChecker\RobloxStatusChecker\obj\Debug\net6.0\RobloxStatusChecker.AssemblyInfo.cs
+C:\Users\moonn\source\repos\RobloxStatusChecker\RobloxStatusChecker\obj\Debug\net6.0\RobloxStatusChecker.csproj.CoreCompileInputs.cache
+C:\Users\moonn\source\repos\RobloxStatusChecker\RobloxStatusChecker\obj\Debug\net6.0\RobloxStatusChecker.dll
+C:\Users\moonn\source\repos\RobloxStatusChecker\RobloxStatusChecker\obj\Debug\net6.0\refint\RobloxStatusChecker.dll
+C:\Users\moonn\source\repos\RobloxStatusChecker\RobloxStatusChecker\obj\Debug\net6.0\RobloxStatusChecker.pdb
+C:\Users\moonn\source\repos\RobloxStatusChecker\RobloxStatusChecker\obj\Debug\net6.0\RobloxStatusChecker.genruntimeconfig.cache
+C:\Users\moonn\source\repos\RobloxStatusChecker\RobloxStatusChecker\obj\Debug\net6.0\ref\RobloxStatusChecker.dll
